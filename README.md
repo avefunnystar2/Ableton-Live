@@ -208,4 +208,4 @@ This repository serves as the official landing page for Ableton Live. The softwa
 **Get the most recent version of Ableton Live today!**
 
 ---
-**Last updated:** 2026-11-13 18:20:17 UTC
+**Last updated:** 2026-11-14 00:06:08 UTC
